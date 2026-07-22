@@ -129,22 +129,4 @@
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
 
-  ### `> stats`
-
-  <div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nimrodnyongesa
-  &theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=0A84FF" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nimrodnyongesa&theme=default&hide_border=true&include_all
-  _commits=true&count_private=true&show_icons=true" width="49%" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-  srcset="https://nirzak-streak-stats.vercel.app/?user=nimrodnyongesa&theme=github-dark-blue&hide_border=true" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=nimrodnyongesa&theme=default&hide_border=true" width="49%" />
-  </picture>
-
-  <br/>
-
   </div>
