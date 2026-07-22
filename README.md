@@ -155,14 +155,3 @@
   </picture>
 
   </div>
-
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="line" width="100%">
-
-  <div align="center">
-
-  <img src="https://raw.githubusercontent.com/nimrodnyongesa/nimrodnyongesa/output/github-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/nimrodnyongesa/nimrodnyongesa/output/github-snake.svg#gh-light-mode-only" />
-
-  <sub>nom nom nom</sub>
-
-  </div>
