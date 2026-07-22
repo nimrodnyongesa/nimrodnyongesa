@@ -147,11 +147,4 @@
 
   <br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=
-  nimrodnyongesa&theme=github-dark&hide_border=true&area=true&area_color=0A84FF" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nimrodnyongesa&theme=minimal&hide_border=true&
-  area=true" width="98%" />
-  </picture>
-
   </div>
